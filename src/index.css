@@ -1,0 +1,12 @@
+body{
+    margin: 30px auto;
+    width: 1200px;
+    background: rgb(72,63,251);
+    background: radial-gradient(circle, rgba(72,63,251,1) 0%, rgba(59,116,252,1) 29%, rgba(44,197,255,1) 75%);
+}
+
+h1{    
+    font-size: 45px;
+    text-align: center  
+}
+
